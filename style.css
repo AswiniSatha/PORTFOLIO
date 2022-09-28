@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body{
+    /* background-color:chocolate; */
+    background: #1e4356;
+    font-family: 'Roboto Condensed',sans-serif;
+    color:whitesmoke;
+}
+.bgc{
+    /* background: #68A4C4; */
+  /* background: #85b6cf;  */
+  background: #ddd;
+  padding-bottom: 600px;
+ color:black; 
+  
+  font-family: 'Roboto Condensed',sans-serif;
+}
+.innerheader
+{
+
+}
+#logo
+{
+    
+   
+    margin: 30px;
+    background: #1e4356;
+    color:whitesmoke;
+    
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+}
+.heading{
+    margin-top:  150px;
+    margin-left: 40px;
+    padding-top: 90px;
+    text-shadow: 20px 20px 50px;
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+#name{font-size: 60px;
+   }
+   #profile
+   {
+    margin-top: 200px;
+    margin-left: 400px;
+    border-radius: 5px;
+    box-shadow: 20px 20px  white;
+    /* box-shadow: 10px 10px 20px 20px white; */
+  
+   }
+   h3{text-align: center;color:darkgray;
+    
+}
+#Carrer
+{
+    margin-top: 50px;
+    margin-left: 90px; 
+    color:darkgray;
+}
+#about{
+    margin-top :200px;
+    margin-left:100px;
+    margin-right:300px;
+    text-align: justify;
+
+
+}
+.border_align{
+    border:1px solid black;
+  }
+  #header
+  {
+    margin-left: 1100px;
+  }
+#Experience
+{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    text-shadow: 20px 20px 50px;
+}
+.PEXP
+{
+    border: 2px;
+    border-radius: 50px;
+    line-height: 2rem;
+}
+.icon
+{
+    float:left;
+}
+#duration
+{
+  color:darkgray;  
+  
+}
+.exp_align
+{
+    margin-left: 90px;   
+}
+#exp_align_mrgn
+{
+    margin-top: 70px; 
+}
+#edu_align_mrgn
+{
+    
+    margin-left: 100px;
+    padding-left: 100px;
+}
+.exp_align1
+{
+    margin-left: 40px;   
+}
+.exp_align11
+{
+    margin-left: 340px;   
+}
+.contact_align
+{
+    margin-top: 70px; 
+    margin-left: 640px; 
+}
